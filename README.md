@@ -34,7 +34,7 @@ Project Gemini
 ### Poster:
 A brief overview of our app
 
-![](/images/poster_querit.PNG)
+![](/images/Poster.PNG)
 
 ### Scope of Project:
 
@@ -118,6 +118,11 @@ We hope to let people clarify doubts and provide feedback in a quick and anonymo
 1. Relatively bug-free when testing on actual Android devices. No overflow errors in general.
 2. Validation for text fields like creating a thread, or making a comment works.
 3. Geolocation works generally, and if bugs are encountered, they will be resolved with a few taps of the refresh button.
+
+
+### Link to our demo video:
+
+https://drive.google.com/drive/folders/1HxX19_DUvqI0dFxBBuCuVpyh9xhdyxTB?usp=sharing
 
 ### Further testing:
 
