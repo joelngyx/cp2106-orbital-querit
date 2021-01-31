@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424697141745",
+    "firebase_url": "https://usono-cd35e.firebaseio.com",
+    "project_id": "usono-cd35e",
+    "storage_bucket": "usono-cd35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424697141745:android:652f221cbf6f95cf924c50",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424697141745-9di3vkamb94vi72v2dqmdc9nr2687g6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WOZtIMlr734HG9CWyInbwx4CAPsmisc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424697141745-9di3vkamb94vi72v2dqmdc9nr2687g6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
