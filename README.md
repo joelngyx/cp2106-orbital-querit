@@ -34,6 +34,8 @@ Project Gemini
 ### Poster:
 A brief overview of our app
 
+
+
 ![](/images/Poster.PNG)
 
 ### Scope of Project:
