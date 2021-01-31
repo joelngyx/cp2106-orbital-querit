@@ -32,8 +32,9 @@ Project Gemini
 - Debugged for both front end and back end
 
 ### Poster:
+A brief overview of our app
 
-![](/images/Poster.PNG)
+![](/images/poster_querit.PNG)
 
 ### Scope of Project:
 
