@@ -1,5 +1,5 @@
 # QuerIt
-## A CP2106 (Orbital) Project by Team S/UGong
+## A CP2106 (Orbital) Project by Team S/UGond
 
 
 ### Tech Stack:
