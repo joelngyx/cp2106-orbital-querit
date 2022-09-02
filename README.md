@@ -107,11 +107,9 @@ We hope to let people clarify doubts and provide feedback in a quick and anonymo
 ### Limitations/ Areas for improvement/Bugs arose from testing:
 
 1. Bugs with locating the User’s position- sometimes, the app returns location = (0.0, 0.0). It usually resolves itself with a few taps on the refresh button
-2. Users are unable to set the radius of the chat rooms. It is currently fixed at 50m. We would implement this feature in the future.
-3. Security- we are unsure about how secure our app is
-4. App is sometimes unable to toggle the sign in page to show the register page
-5. Tested app on an actual Android Device, crashes on occasion.
-6. Yet to capitalize on Flutter and implement the app on iOS
+2. App is sometimes unable to toggle the sign in page to show the register page
+3. Tested app on an actual Android Device, crashes on occasion.
+4. Yet to capitalize on Flutter and implement the app on iOS
     
 ### Things that went well during testing:
 
