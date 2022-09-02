@@ -131,3 +131,5 @@ If you would like to test out our app, simply:
 2. Have Android Studio installed, and have an Android Emulator running. 
 3. Drag the apk file from the zip file into the emulator. The app will install immediately.
 4. Run QuerIt on your emulator. Test it out with your friends!
+
+Alternatively, simply download our release, and install the apk file on your android device.
