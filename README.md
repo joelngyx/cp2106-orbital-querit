@@ -1,5 +1,6 @@
 # QuerIt
 ## A CP2106 (Orbital) Project by Team S/UGond
+#### Note: the .apk file in the release does not work for Android 11 and above.
 
 
 ### Tech Stack:
